@@ -1,0 +1,11 @@
+CM 
+CE
+SY len=0.455
+SY dia=0.01
+GW	1	11	0	-len/2	0	0	len/2	0	dia/2
+GE	0
+GN	-1
+EK
+EX	0	1	6	0	1	0	0
+FR	0	0	0	0	300	0
+EN
